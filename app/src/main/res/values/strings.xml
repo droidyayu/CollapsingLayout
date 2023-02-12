@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CollapsingLayout</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title">Hello !! </string>
+    <string name="metadata">I am trying to test things out !! Hope they work as expected :) Fingers crossed :) </string>
+
+</resources>
